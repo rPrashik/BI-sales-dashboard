@@ -13,45 +13,31 @@ This repository contains the `.pbix` file for a dynamic and interactive sales da
 Executive KPIs
 
 Key business metrics displayed through KPI cards:
+- Total Sales
+- Profit Margin
+- Total Orders
+- Average Delivery Time
 
-Total Sales
-
-Profit Margin
-
-Total Orders
-
-Average Delivery Time
-
-Temporal Analysis
-
+Temporal Analysis:
 Line charts analyzing sales and profit trends over months and years to identify seasonal patterns.
 
-Geographical Insights
-
+Geographical Insights:
 Regional performance visualization showing sales distribution across states and regions.
 
-Product Analysis
-
+Product Analysis:
 Category and Sub-Category level analysis to identify top-performing and underperforming products.
 
-Customer Segmentation
-
+Customer Segmentation:
 Breakdown of sales across Consumer, Corporate, and Home Office segments.
 
 Interactive Filtering
-
 Dynamic slicers allow users to filter the dashboard by:
-
-Date
-
-Region
-
-Category
-
-Payment Mode
+- Date
+- Region
+- Category
+- Payment Mode
 
 🛠 Tools Used
-
 Power BI Desktop — Data modeling, DAX calculations, and interactive dashboard creation
 
 Microsoft Excel — Initial data inspection and preprocessing  Interact with the slicers and click on visuals to explore the data insights.
